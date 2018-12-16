@@ -196,7 +196,7 @@
 		'badge_notify_multi_plural'=>'et # autres badges !',
 		'badge_notify_multi_singular'=>'et 1 autre badge !',
 		'badge_notify_profile_pre'=>'Consultez ',
-		'badge_notify_profile'=>'votre profile',
+		'badge_notify_profile'=>'votre profil',
 		
 		'badge_names_reset'=>'Réinitialiser les noms des badges.',
 		'badge_values_reset'=>'Réinitialiser les valeurs des badges.',
