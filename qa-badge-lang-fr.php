@@ -92,51 +92,51 @@
 		'good_question_desc'=>'Question ayant reçue +# votes',
 		'great_question_desc'=>'Question ayant reçue +# votes',
 
-		'notable_question_desc'=>'Question ayant reçue # ^view^vues',
-		'popular_question_desc'=>'Question ayant reçue # ^view^vues',
-		'famous_question_desc'=>'Question ayant reçue # ^view^vues',
+		'notable_question_desc'=>'Question ayant reçue # ^vue^vues',
+		'popular_question_desc'=>'Question ayant reçue # ^vue^vues',
+		'famous_question_desc'=>'Question ayant reçue # ^vue^vues',
 		
 		'nice_answer_desc'=>'Réponse ayant reçue +# votes',
 		'good_answer_desc'=>'Réponse ayant reçue +# votes',
 		'great_answer_desc'=>'Réponse ayant reçue +# votes',
 
-		'nice_answer_old_desc'=>'Obtenu le badge $nice_answer en réponse à une question vieille de plus de # ^day^jours',
-		'good_answer_old_desc'=>'Obtenu le badge $good_answer en réponse à une question vieille de plus de # ^day^jours',
-		'great_answer_old_desc'=>'Obtenu le badge $great_answer en résponse à une question vieille de plus de # ^day^days jour',
+		'nice_answer_old_desc'=>'Obtenu le badge $nice_answer en réponse à une question vieille de plus de # ^jour^jours',
+		'good_answer_old_desc'=>'Obtenu le badge $good_answer en réponse à une question vieille de plus de # ^jour^jours',
+		'great_answer_old_desc'=>'Obtenu le badge $great_answer en résponse à une question vieille de plus de # ^jour^jours',
 		
-		'gifted_desc'=>'# ^answer^réponses sélectionnées en meilleure réponses',
-		'wise_desc'=>'# ^answer^réponses sélectionnées en meilleure réponses',
-		'enlightened_desc'=>'# ^answer^réponses sélectionnées en meilleure réponses',
+		'gifted_desc'=>'# ^réponse^réponses sélectionnées en meilleure réponses',
+		'wise_desc'=>'# ^réponse^réponses sélectionnées en meilleure réponses',
+		'enlightened_desc'=>'# ^réponse^réponses sélectionnées en meilleure réponses',
 
-		'grateful_desc'=>'Sélectionné # ^answer^réponses en tant que meilleure réponse',
-		'respectful_desc'=>'Sélectionné # ^answer^réponses en tant que meilleure réponse',
-		'reverential_desc'=>'Sélectionné # ^answer^réponses en tant que meilleure réponse',
+		'grateful_desc'=>'Sélectionné # ^réponse^réponses en tant que meilleure réponse',
+		'respectful_desc'=>'Sélectionné # ^réponse^réponses en tant que meilleure réponse',
+		'reverential_desc'=>'Sélectionné # ^réponse^réponses en tant que meilleure réponse',
 
-		'liked_desc'=>'Reçu # un total de ^upvote^votes',
-		'loved_desc'=>'Reçu # un total de ^upvote^votes',
-		'revered_desc'=>'Reçu # un total de ^upvote^votes',
+		'liked_desc'=>'Reçu # un total de ^vote^votes',
+		'loved_desc'=>'Reçu # un total de ^vote^votes',
+		'revered_desc'=>'Reçu # un total de ^vote^votes',
 	
 
 		'asker_desc'=>'Posé # ^question^questions',
 		'questioner_desc'=>'Posé # ^question^questions',
 		'inquisitor_desc'=>'Posé # ^question^questions',
 
-		'answerer_desc'=>'Posté # ^answer^réponses',
-		'lecturer_desc'=>'Posté # ^answer^réponses',
-		'preacher_desc'=>'Posté # ^answer^réponses',
+		'answerer_desc'=>'Posté # ^réponse^réponses',
+		'lecturer_desc'=>'Posté # ^réponse^réponses',
+		'preacher_desc'=>'Posté # ^réponse^réponses',
 
-		'commenter_desc'=>'Posté # ^comment^commentaires',
-		'commentator_desc'=>'Posté # ^comment^commentaires',
-		'annotator_desc'=>'Posté # ^comment^commentaires',
+		'commenter_desc'=>'Posté # ^commentaire^commentaires',
+		'commentator_desc'=>'Posté # ^commentaire^commentaires',
+		'annotator_desc'=>'Posté # ^commentaire^commentaires',
 		
 				
-		'voter_desc'=>'voté # ^time^fois',
-		'avid_voter_desc'=>'voté # ^time^fois',
-		'devoted_voter_desc'=>'voté # ^time^fois',
+		'voter_desc'=>'voté # ^fois^fois',
+		'avid_voter_desc'=>'voté # ^fois^fois',
+		'devoted_voter_desc'=>'voté # ^fois^fois',
 
-		'editor_desc'=>'Effectué un total de # ^edit^éditions',
-		'copy_editor_desc'=>'Effectué un total de # ^edit^éditions',
-		'senior_editor_desc'=>'Effectué un total de # ^edit^éditions',
+		'editor_desc'=>'Effectué un total de # ^edition^éditions',
+		'copy_editor_desc'=>'Effectué un total de # ^edition^éditions',
+		'senior_editor_desc'=>'Effectué un total de # ^edition^éditions',
 		
 		'watchdog_desc'=>'Marqué # ^post^posts commes inappropriés',
 		'bloodhound_desc'=>'Marqué # ^post^posts commes inappropriés',
@@ -147,17 +147,17 @@
 		'devoted_reader_desc'=>'Lu un total de # ^question^questions',
 		
 		
-		'dedicated_desc'=>'Est venu chaque jour durant # ^day^jours consécutifs',
-		'devoted_desc'=>'Est venu chaque jour durant # ^day^jours consécutifs',
-		'zealous_desc'=>'Est venu chaque jour durant # ^day^jours consécutifs',
+		'dedicated_desc'=>'Est venu chaque jour durant # ^jour^jours consécutifs',
+		'devoted_desc'=>'Est venu chaque jour durant # ^jour^jours consécutifs',
+		'zealous_desc'=>'Est venu chaque jour durant # ^jour^jours consécutifs',
 
-		'visitor_desc'=>'A visité le site un total de # ^day^jours',
-		'trouper_desc'=>'A visité le site un total de # ^day^jours',
-		'veteran_desc'=>'A visité le site un total de # ^day^jours',
+		'visitor_desc'=>'A visité le site un total de # ^jour^jours',
+		'trouper_desc'=>'A visité le site un total de # ^jour^jours',
+		'veteran_desc'=>'A visité le site un total de # ^jour^jours',
 
-		'regular_desc'=>'Première visite il y a plus de # ^day^jours',
-		'old_timer_desc'=>'Première visite il y a plus de # ^day^jours',
-		'ancestor_desc'=>'Première visite il y a plus de # ^day^jours',
+		'regular_desc'=>'Première visite il y a plus de # ^jour^jours',
+		'old_timer_desc'=>'Première visite il y a plus de # ^jour^jours',
+		'ancestor_desc'=>'Première visite il y a plus de # ^jour^jours',
 
 		'100_club_desc'=>'Reçu un total de # ^point^points',
 		'1000_club_desc'=>'Reçu un total de # ^point^points',
